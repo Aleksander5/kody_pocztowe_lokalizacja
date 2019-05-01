@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/google-maps-services-0.2.5.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/google-maps-services-0.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/gson-2.8.2.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/gson-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/joda-time-2.9.9.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/joda-time-2.9.9-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/okhttp-3.9.1.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/okhttp-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/okio-1.13.0.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/okio-1.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/slf4j-site-1.8.0-beta0.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/slf4j-site-1.8.0-beta0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/slf4j-api-1.7.25.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/slf4j-api-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="G:/programowanie/eclipse/eclipse/lib/slf4j-nop-1.7.25.jar" sourcepath="G:/programowanie/eclipse/eclipse/lib/slf4j-nop-1.7.25-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
